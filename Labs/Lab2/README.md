@@ -1,3 +1,6 @@
+## Assigned Date: Dec 31 / 2021 Deadline : Jan 7 / 2022
+## Submitted in: Jan 3 / 2022
+
 # Java Package
 A java package is a group of similar types of classes, interfaces and sub-packages.
 

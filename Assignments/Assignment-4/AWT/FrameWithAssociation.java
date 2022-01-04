@@ -30,10 +30,12 @@ class FrameWithAssociation {
 		frame.add(sub);
 		frame.add(mul);
 		frame.add(div);
+
 		add.setBounds(50, 180, 50, 30);
 		sub.setBounds(102, 180, 50, 30);
 		mul.setBounds(154, 180, 50, 30);
 		div.setBounds(206, 180, 50, 30);
+		
 		frame.setSize(500, 500);
 		frame.setLayout(null);
 		frame.setVisible(true);

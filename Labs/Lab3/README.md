@@ -56,9 +56,7 @@ Unlike AWT, Java Swing provides platform-independent and lightweight components.
 The javax.swing package provides classes for java swing API such as JButton, JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser etc.
 
 ## Difference
-
+						
 			# JAVA AWT 					  				# JAVA SWING 			
- ``` AWT components are platform-dependent. ```   Java swing components are platform-     
-										   independent.						    
- ``` AWT components are heavyweight. ```		  Swing components are lightweight.``` AWT doesn't support pluggable look and feel. ``` Swing supports pluggable look and feel. ``` AWT provides less components than Swing. ``` Swing provides more powerful components such as tables, lists, scrollpanes, colorchooser, tabbedpane etc.			
- ``` AWT doesn't follows MVC(Model view Controller) where model represents data, view represents presentation and controller acts as an interface      												between model and view. ``` Swing follows MVC.			  											
+ ``` AWT components are platform-dependent. ```   Java swing components are platform-independent. ``` AWT components are heavyweight. ``` Swing components are lightweight. ``` AWT doesn't support pluggable look and feel. ``` Swing supports pluggable look and feel. ``` AWT provides less components than Swing. ``` Swing provides more powerful components such as tables, lists, scrollpanes, colorchooser, tabbedpane etc. ``` AWT doesn't follows MVC(Model view Controller) where model represents data, view represents presentation and controller acts as an interface between model and view. ``` Swing follows MVC.			  											
+

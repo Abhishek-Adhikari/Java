@@ -2,16 +2,16 @@
 ## Submitted in: Jan 11 / 2022 
 
 # Border-Layout
-![BorderLayout](https://github.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/borderLayout.png)
+![BorderLayout](https://raw.githubusercontent.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/borderLayout.png)
 
 # Box-Layout
-![BoxLayout](https://github.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/BoxLayout.png)
+![BoxLayout](https://raw.githubusercontent.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/BoxLayout.png)
 
 # Flow-Layout
-![FlowLayout](https://github.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/FlowLayout.png)
+![FlowLayout](https://raw.githubusercontent.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/FlowLayout.png)
 
 # Grid-Layout
-![GridLayout](https://github.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/GridLayout.png)
+![GridLayout](https://raw.githubusercontent.com/Abhishek-Adhikari/Java/tree/master/Assignments/Assignment-6(Layout-Manager-Calculator)/output/GridLayout.png)
 
 ## JAVA Layout Managers
 The LayoutManagers are used to arrange components in a particular manner. The Java LayoutManagers facilitates us to control the positioning and size of the components in GUI forms. LayoutManager is an interface that is implemented by all the classes of layout managers. There are the following classes that represent the layout managers:

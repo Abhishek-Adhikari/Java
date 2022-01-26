@@ -1,6 +1,6 @@
 25 Jan 2022 - 27 Jan 2022
 
-![Screenshot](https://raw.githubusercontent.com/Abhishek-Adhikari/tree/java/master/assignments/assignment-10(JDBC)/images/EclipseSS.png)
+![Screenshot](https://raw.githubusercontent.com/Abhishek-Adhikari/java/tree/master/assignments/assignment-10(JDBC)/CRUD/images/EclipseSS.png)
 
 ## Understand the main JDBC interfaces and classes
 
